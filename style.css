@@ -1,0 +1,17 @@
+h1 {
+  font-family : 'Allerta Stencil';
+  font-size : 4em;
+}
+
+p {
+  color : #3B3939;
+  font-family : 'Nova Flat';
+  font-size : 2em;
+  font-weight : bold;
+}
+
+#t {
+  background : transparent;
+  outline: 0; border: 0;
+  color : #131842;
+}
